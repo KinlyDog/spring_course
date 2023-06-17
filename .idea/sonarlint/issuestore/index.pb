@@ -2,12 +2,6 @@
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-Q
-!src/test/java/spring/AppTest.java,6\5\6513ea35fd25309c2a8edc2582c2d45fdb486345
-c
-3src/main/java/spring/spring_introduction/Test1.java,3\8\3820a3ddb4e5bb0e8c8215d93a4b02e75820e2ad
-c
-3src/main/java/spring/spring_introduction/Test2.java,2\5\2507e015f310eb97f0e99cc5de08163ef01cc6ca
 Å
 Q.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,3\0\30205a209c6ce77c4cfc19a09e6f57c588b7fb88
 w
@@ -24,7 +18,3 @@ w
 G.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,e\d\ed67eb178d523a4b3f117dcbe0eda5196367ceec
 Å
 Q.idea/sonarlint/securityhotspotstore/2/5/2507e015f310eb97f0e99cc5de08163ef01cc6ca,e\2\e21a514834b190d70f5c8d5eee02d8fa148764a3
-c
-3src/main/java/spring/spring_introduction/Test3.java,e\5\e533060e15c722892dab703f3eb207e22db0d3cb
-a
-1src/main/java/spring/spring_introduction/Pet.java,d\5\d58677a8631dfbfaa33f8a6d97002969a23f244f
