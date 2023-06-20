@@ -1,0 +1,15 @@
+
+T
+java:S1854"8Remove this useless assignment to local variable "cat1".(Ó”É
+8ş°öÌ‹1
+T
+java:S1854
+"7Remove this useless assignment to local variable "cat".(¤†Ç·8ş°öÌ‹1
+E
+java:S1481
+"(Remove this unused "cat" local variable.(¤†Ç·8ş°öÌ‹1
+E
+java:S1481")Remove this unused "cat1" local variable.(Ó”É
+8ş°öÌ‹1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®œÉóùÿÿÿÿ8ÆÆ¾Í‹1
+]	java:S125"<This block of commented-out lines of code should be removed.(Ğ¡ˆÂüÿÿÿÿ8Ó÷ªÍ‹1

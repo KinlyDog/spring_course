@@ -56,3 +56,7 @@ Q
 !src/main/java/aop/University.java,1\9\1976c27d1106563430bf18d20da5c437b04dfd6f
 f
 6src/main/java/aop/aspects/UniversityLoggingAspect.java,b\4\b49daa7805f2abd4d1d096f345d7eb855b40ab30
+f
+6src/main/java/aop/aspects/ExceptionHandlingAspect.java,5\5\5582809a5c50269fb918c5fedfc0fa7d2bbea48c
+K
+resources/hibernate.cfg.xml,f\4\f46455c76dcf1c0d7df97d129a1f984f20ff81da

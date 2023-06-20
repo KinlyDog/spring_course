@@ -1,0 +1,14 @@
+
+]
+java:S1854";Remove this useless assignment to local variable "yourDog".(®úŒÖúÿÿÿÿ8Åßô‚‹1
+V
+java:S1854
+"9Remove this useless assignment to local variable "myDog".( Ê¹Ñ8Åßô‚‹1
+G
+java:S1481
+"*Remove this unused "myDog" local variable.( Ê¹Ñ8Æßô‚‹1
+]	java:S125"<This block of commented-out lines of code should be removed.(Žô‰•øÿÿÿÿ8Æßô‚‹1
+N
+java:S1481",Remove this unused "yourDog" local variable.(®úŒÖúÿÿÿÿ8Æßô‚‹1
+W	java:S125"<This block of commented-out lines of code should be removed.(«›ŸA8Çßô‚‹1
+]	java:S125"<This block of commented-out lines of code should be removed.(á¥­«øÿÿÿÿ8Çßô‚‹1
